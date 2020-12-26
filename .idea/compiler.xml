@@ -21,6 +21,7 @@
         <module name="cloud-provider-payment8002" />
         <module name="cloud-provider-payment8004" />
         <module name="cloud-provider-payment8006" />
+        <module name="could-gateway-gateway9527" />
       </profile>
     </annotationProcessing>
   </component>
