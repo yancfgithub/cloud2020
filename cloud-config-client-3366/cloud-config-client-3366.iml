@@ -13,10 +13,7 @@
     <facet type="Spring" name="Spring">
       <configuration>
         <fileset id="fileset" name="Spring Application Context" removed="false">
-          <file>file://$MODULE_DIR$/src/main/resources/bootstrap.yml</file>
-        </fileset>
-        <fileset id="fileset" name="Spring Application Context1" removed="false">
-          <file>file://$MODULE_DIR$/src/main/resources/bootstap.yml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/application.yml</file>
         </fileset>
       </configuration>
     </facet>
